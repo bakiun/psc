@@ -1,2 +1,2 @@
 # psc
-Simple Power State Checker. Written in VBS
+Simple Power State Checker for laptop / notebook. Written in VBS
