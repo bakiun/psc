@@ -2,8 +2,8 @@
 '# version: 1.0
 '# description: Power State Checker
 '# license: MIT
-'# github: https://github.com/bakiiun/psc
-'# author: bakiiun
+'# github: https://github.com/bakiun/psc
+'# author: bakiun
 
 Sub Play(SoundFile)
 Dim Sound
